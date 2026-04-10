@@ -4,9 +4,9 @@
 
 語言版本：
 
-- [README.md](./README.md)
-- [README_cht.md](./README_cht.md)
-- [README_jp.md](./README_jp.md)
+- [英文](./README.md)
+- [中文](./README_cht.md)
+- [日文](./README_jp.md)
 
 `AgenticService` 是以 Go 撰寫的本地優先 Agentic orchestration service，整合了：
 
