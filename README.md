@@ -5,8 +5,8 @@ This directory contains the release assets and deployment materials for `Agentic
 Language versions:
 
 - [ENG](./README.md)
-- [Chinese](./README_cht.md)
-- [Japanese](./README_jp.md)
+- [CHINESE](./README_cht.md)
+- [JAPANESE](./README_jp.md)
 
 `AgenticService` is a local-first Go service focused on agentic orchestration. It combines:
 
