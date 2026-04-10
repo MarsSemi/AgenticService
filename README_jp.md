@@ -4,9 +4,9 @@
 
 Language versions:
 
-- [README.md](./README.md)
-- [README_cht.md](./README_cht.md)
-- [README_jp.md](./README_jp.md)
+- [ENG](./README.md)
+- [CHINESE](./README_cht.md)
+- [JAPANESE](./README_jp.md)
 
 `AgenticService` は、ローカル優先の Go ベース agentic orchestration service です。主な特徴は以下のとおりです。
 
